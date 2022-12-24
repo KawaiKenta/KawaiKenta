@@ -1,9 +1,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kawaikenta.vercel.app/api?username=KawaiKenta&count_private=true" />
+  <img align="left" height="200" src="https://github-readme-stats-kawaikenta.vercel.app/api?username=KawaiKenta&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-kawaikenta.vercel.app/api/top-langs/?username=KawaiKenta&hide=html,css,scss,Cmake" />
+  <img align="left" height="200" src="https://github-readme-stats-kawaikenta.vercel.app/api/top-langs/?username=KawaiKenta&hide=html,css,scss,Cmake&show_icons=true&theme=dracula&layout=compact" />
 </a>
 
 
