@@ -1,7 +1,7 @@
-<p align="left">
-  <img alt="github stats" height="160px" src="https://github-readme-stats-kawaikenta.vercel.app/api?username=KawaiKenta&count_private=true&show_icons=true&theme=dracula" />
-  <img alt="TopLangs" height="160px" src="https://github-readme-stats-kawaikenta.vercel.app/api/top-langs/?username=KawaiKenta&hide=html,css,scss,Cmake&show_icons=true&theme=dracula&layout=compact" />
-</p>
+
+[![](https://raw.githubusercontent.com/KawaiKenta/github-profile/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KawaiKenta/github-profile/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KawaiKenta/github-profile/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/KawaiKenta/github-profile/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/KawaiKenta/github-profile/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
